@@ -1,0 +1,40 @@
+body {
+    background: url("images/background.jpg");
+}
+
+.header {
+    height: 30vh;
+    background: linear-gradient(90deg, rgba(69,233,102,0.3) 0%, rgba(39, 70, 224, 0.3) 100%);
+}
+
+.footer {
+    height: 30vh;
+    background: linear-gradient(90deg, rgba(69,233,102,0.3) 0%, rgba(39, 70, 224, 0.3) 100%);
+}
+
+.fancy-text {
+    color: white;
+    text-shadow: -2px 2px blue;
+}
+
+.content {
+    background-color: white;
+    padding: 1rem;
+}
+
+.item {
+    border: solid green 2px;
+    width: 15rem;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.details-btn {
+    background-color: green!important;
+    border-radius: 50px;
+    color: white;
+    width: 10rem;
+    height: 2rem;
+    border: solid black 0px;
+    margin-bottom: 1rem;
+}
